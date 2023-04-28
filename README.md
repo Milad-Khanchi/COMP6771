@@ -1,2 +1,2 @@
 # COMP6771
-This is Cource project
+This is Course project
